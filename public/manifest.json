@@ -6,7 +6,7 @@
     "start_url": "/",
     "name": "Coffee Delivery",
     "short_name": "Coffee Delivery",
-    "description": " a coffee delivery.",
+    "description": "a coffee delivery.",
     "icons": [
         {
             "src": "/icon-192x192.png",
