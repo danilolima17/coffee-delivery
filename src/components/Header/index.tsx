@@ -26,6 +26,7 @@ export function Header() {
               {cartQuantity >= 1 && <span>{cartQuantity}</span>}
               <ShoppingCart size={20} weight="fill" />
             </HeaderButton>
+            <Header>Oi</Header>
           </NavLink>
         </HeaderButtonsContainer>
       </div>
