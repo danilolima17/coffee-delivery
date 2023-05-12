@@ -19,14 +19,13 @@ export function Header() {
         <HeaderButtonsContainer>
           <HeaderButton variant="purple">
             <MapPin size={20} weight="fill" />
-            Pernambuco
+            Recife-PE
           </HeaderButton>
           <NavLink to="/completeOrder">
             <HeaderButton variant="yellow">
               {cartQuantity >= 1 && <span>{cartQuantity}</span>}
               <ShoppingCart size={20} weight="fill" />
             </HeaderButton>
-           Header
           </NavLink>
         </HeaderButtonsContainer>
       </div>
